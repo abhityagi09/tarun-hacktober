@@ -1,1 +1,1 @@
-this is a repository of different projects for hacktoberfest 2022
+this is a repository for hacktoberfest.
